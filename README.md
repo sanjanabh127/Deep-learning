@@ -33,9 +33,13 @@ Visualized segmentation masks and model predictions.
  **Features**
 
 ✔️ U-Net implementation in TensorFlow/Keras
+
 ✔️ Data preprocessing & augmentation with OpenCV
+
 ✔️ End-to-end training and evaluation pipeline
+
 ✔️ Visualization of predicted segmentation masks vs ground truth
+
 ✔️ Runs on Google Colab for easy reproducibility
 
  **Dataset**
