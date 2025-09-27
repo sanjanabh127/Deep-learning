@@ -1,10 +1,10 @@
 # Biomedical Image Segmentation using U-Net 🧬🩺
- ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white) |
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6+-ff6f00.svg?logo=tensorflow&logoColor=white) |
- ![Keras](https://img.shields.io/badge/Keras-2.6+-D00000.svg?logo=keras&logoColor=white) |
- ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243.svg?logo=numpy&logoColor=white) |
- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-013243.svg?logo=plotly&logoColor=white) |
- ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8.svg?logo=opencv&logoColor=white) |
+ ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white) 
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6+-ff6f00.svg?logo=tensorflow&logoColor=white) 
+ ![Keras](https://img.shields.io/badge/Keras-2.6+-D00000.svg?logo=keras&logoColor=white) 
+ ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243.svg?logo=numpy&logoColor=white) 
+ ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-013243.svg?logo=plotly&logoColor=white) 
+ ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8.svg?logo=opencv&logoColor=white) 
 
 
 ---
